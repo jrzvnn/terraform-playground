@@ -17,6 +17,6 @@ git clone https://github.com/jrzvnn/terraform-playground.git
 
 4. **Set Up Provider Credentials:** For cloud provider examples, make sure to set up your credentials properly. You can usually do this by using environment variables or configuration files. Refer to the documentation of the respective cloud provider for guidance.
 
-5. **Set Up Provider Credentials:** For cloud provider examples, make sure to set up your credentials properly. You can usually do this by using environment variables or configuration files. Refer to the documentation of the respective cloud provider for guidance.
-
+5. **Run Terraform Commands:** In each example folder, you'll find a main.tf file containing the Terraform configuration. Use commands like terraform init, terraform plan, and terraform apply to initialize, plan, and apply the configuration respectively.
+   
 Happy Terraforming!
