@@ -9,7 +9,7 @@ If you're new to Terraform, follow these steps to get started:
 1. **Installation:** Make sure you have Terraform installed on your system. You can download it from the official Terraform website.
 
 2. **Clone the Repository:** Clone this repository to your local machine using the following command:
-```
+```sh
 git clone https://github.com/jrzvnn/terraform-playground.git
 ```
 
